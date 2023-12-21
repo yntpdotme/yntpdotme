@@ -28,3 +28,22 @@
 
 </div>
 </br>
+
+<!-- More About Me -->
+## 🙋‍♂️ About Me
+  
+  - #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
+
+  - #### 🤿 I'm diving deep into the world of Web Development 🕸️
+  
+  - #### 👯 I’m looking to collaborate with other Open Source Geeks.
+  
+  - #### 🎯 2024 Goals: Becoming Master in JavaScript/TypeScript Full Stack Development.
+  
+  - #### 💻 Most used line of code `console.log('Server is listening')`
+  
+  - #### 📝 Check out my Articles on: <a href="https://akashkadlag.hashnode.dev" target="_blank">akashkadlag.hashnode.dev</a>
+
+  - #### 🙋🏻 I’m looking help for connecting Aamzing folks and buiding good network.
+
+<br/><br/>
