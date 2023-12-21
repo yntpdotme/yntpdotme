@@ -32,6 +32,8 @@
 
 <!-- More About Me -->
 ## 🙋‍♂️ About Me
+
+  - #### 🔭 I’m currently working on [100xDevs Cohort](https://github.com/KadlagAkash/100xdevs-full-stack-mastery)
   
   - #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
 
