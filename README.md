@@ -29,6 +29,7 @@
 </div>
 </br>
 
+
 <!-- More About Me -->
 ## 🙋‍♂️ About Me
   
@@ -45,5 +46,45 @@
   - #### 📝 Check out my Articles on: <a href="https://akashkadlag.hashnode.dev" target="_blank">akashkadlag.hashnode.dev</a>
 
   - #### 🙋🏻 I’m looking help for connecting Aamzing folks and buiding good network.
+
+<br/><br/>
+
+
+<!-- Techonologies that I'm working with -->
+## ⚡️ Tech-Stack
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px align="top"/> &nbsp;&nbsp;Languages:
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" />
+</p>
+</div>
+
+
+### 🧩 &nbsp;&nbsp;Libraries & Frameworks :
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express,nextjs&theme=dark" />
+</p>
+
+
+### ∞ &nbsp; DevOps:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
+</p>
+
+### 🗄️ &nbsp;Databases:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres&theme=dark" />
+</p>
+
+### 🛠️ &nbsp;Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,bash&theme=dark" />
+</p>
 
 <br/><br/>
