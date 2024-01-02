@@ -1,8 +1,13 @@
 <h3 align="center">👨🏻‍💻 Venture Into My Digital Warehouse 𝌏</h3>
 
+<!-- Banner -->
+<p align="center">  
+  <br>
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/github-banner.png">
+<p/>
+
 <!-- Typing SVG -->
 <p align ="center">
-  <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Evangelist;Community+Lead" alt="Typing SVG"/>
   </a>
@@ -17,45 +22,40 @@
 </p>
 <br/>
 
-
 <!-- Social Media Links -->
+
 ## 📬 Opportunities knocks!🚪 Let's chat.
 
 <br/>
 <div align= center>
 
-  [![Twitter Badge](https://img.shields.io/badge/-@KadlagAkash-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KadlagAkash)](https://twitter.com/KadlagAkash) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-KadlagAkash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadlagakash/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-akashkadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akashkadlag14@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@KadlagAkash-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KadlagAkash)](https://twitter.com/KadlagAkash) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-KadlagAkash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadlagakash/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-akashkadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akashkadlag14@gmail.com)
 
 </div>
 </br>
 
-
 <!-- More About Me -->
+
 ## 🙋‍♂️ About Me
 
-  - #### 🔭 I’m currently working on [100xDevs Cohort](https://github.com/KadlagAkash/100xdevs-full-stack-mastery)
-  
-  - #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
+- #### 🔭 I’m currently working on [100xDevs Cohort](https://github.com/KadlagAkash/100xdevs-full-stack-mastery)
 
-  - #### 🤿 I'm diving deep into the world of Web Development 🕸️
-  
-  - #### 👯 I’m looking to collaborate with other Open Source Geeks.
-  
-  - #### 🎯 2024 Goals: Becoming Master in JavaScript/TypeScript Full Stack Development.
-  
-  - #### 💻 Most used line of code `console.log('Server is listening')`
-  
-  - #### 📝 Check out my Articles on: <a href="https://akashkadlag.hashnode.dev" target="_blank">akashkadlag.hashnode.dev</a>
+- #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
 
-  - #### 🙋🏻 I’m looking help for connecting Aamzing folks and buiding good network.
+- #### 🎯 2024 Goals: TypeScript Full Stack Ninja 🥷🏻.
+
+- #### 📝 Check out my Articles on: <a href="https://akashkadlag.hashnode.dev" target="_blank">akashkadlag.hashnode.dev</a>
+
+- #### 🙋🏻 Happy to connect Aamzing folks and build Awesome network.
 
 <br/><br/>
 
-
 <!-- Techonologies that I'm working with -->
+
 ## ⚡️ Tech-Stack
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px align="top"/> &nbsp;&nbsp;Languages:
+
 <div align="center">
 
 <p align="center">
@@ -63,13 +63,11 @@
 </p>
 </div>
 
-
 ### 🧩 &nbsp;&nbsp;Libraries & Frameworks :
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express,nextjs&theme=dark" />
 </p>
-
 
 ### ∞ &nbsp; DevOps:
 
@@ -91,8 +89,8 @@
 
 <br/><br/>
 
-
 <!-- GitHub Activity Tracker -->
+
 ## 👨🏻‍💻 Activity Moniter
 
 <br/>
@@ -103,8 +101,8 @@
 </p>
 <br/>
 
-
 <!-- GitHub Stats -->
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
 
 <br/>
