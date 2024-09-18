@@ -29,7 +29,7 @@
 <br/>
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@KadlagAkash-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KadlagAkash)](https://twitter.com/KadlagAkash) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-KadlagAkash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadlagakash/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-akashkadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akashkadlag14@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@yntpdotme-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yntpdotme)](https://twitter.com/yntpdotme) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-yntpdotme-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yntpdotme/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-akashkadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akashkadlag14@gmail.com)
 
 </div>
 </br>
@@ -38,7 +38,7 @@
 
 ## 🙋‍♂️ About Me
 
-- #### 🔭 I’m currently working on [100xDevs Cohort](https://github.com/KadlagAkash/100xdevs-full-stack-mastery)
+- #### 🔭 I’m currently working on [100xDevs Cohort](https://github.com/yntpdotme/100xdevs-full-stack-mastery)
 
 - #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
 
@@ -46,11 +46,11 @@
 
 - #### 📝 Check out my Articles on: <a href="https://akashkadlag.hashnode.dev" target="_blank">akashkadlag.hashnode.dev</a>
 
-- #### 🙋🏻 Happy to connect Aamzing folks and build Awesome network.
+- #### 🙋🏻 Happy to connect Amazing folks and build Awesome network.
 
 <br/><br/>
 
-<!-- Techonologies that I'm working with -->
+<!-- Technologies that I'm working with -->
 
 ## ⚡️ Tech-Stack
 
@@ -91,11 +91,11 @@
 
 <!-- GitHub Activity Tracker -->
 
-## 👨🏻‍💻 Activity Moniter
+## 👨🏻‍💻 Activity Monitor
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=KadlagAkash&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0D1117" alt="My GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=yntpdotme&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0D1117" alt="My GitHub Streak"/>
 </p>
 
 <br/>
@@ -106,7 +106,7 @@
 
 <br/>
 <p align="center">
-  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntpdotme&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
 <p/>
 
 <p align="center">
