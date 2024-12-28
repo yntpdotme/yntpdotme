@@ -30,7 +30,7 @@
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongo,postgres,tailwind,react,next,astro,aws,docker,kubernetes&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongo,postgres,tailwind,react,next,astro,aws,docker,kubernetes,python,fastapi,bun,ai&theme=dark&perline=8" />
 </p>
 
 <br/>
